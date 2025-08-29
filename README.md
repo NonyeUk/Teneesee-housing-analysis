@@ -15,10 +15,10 @@ The analysis was then extended with **interactive Tableau dashboards** for visua
 ---
 
 ## 📂 Repository Structure
-- `data/` → (Optional) Raw/cleaned dataset (if allowed to share)
+- `data/` → Dataset 
 - `notebooks/` → Jupyter/Colab notebooks with analysis
 - `images/` → Exported plots & visuals
-- `dashboard/` → Tableau workbook or screenshots
+- `dashboard/` → Tableau workbook & screenshot
 - `README.md` → Project documentation
 
 
